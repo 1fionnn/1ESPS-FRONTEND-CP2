@@ -1,0 +1,24 @@
+* {
+    margin: 0;
+    padding: 0;
+    list-style-type: none;
+    box-sizing: border-box;
+}
+div#vermelho{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    color: red;
+}
+div#nigga{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    color: black;
+}
+div#azul{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    color:blue;
+}
